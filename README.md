@@ -1,7 +1,7 @@
 ### Hi there 👋🏾
 
 ### 🤔 I’m currently...
-- A back-end developer (using Ruby on Rails) with experience with frontend frameworks like Angular, Vue.js, and Ember JS
+- A software engineer developing web applications with Ruby on Rails with experience with frontend frameworks like Angular, Vue.js, and Ember JS
 - Interested in generative art 
 - Fascinated by artificial intelligence art
 
